@@ -3,6 +3,8 @@ Thank you for signing up as an event coordinator!
 
 Your support is so important, thank you for volunteering to help. We rely on you to help ensure the event runs smoothly. Below are some typical processes to help you with the event set up and check in process.
 
+Please familiarize yourself with the [CoderDojoTC website](http://www.coderdojotc.org) so you can answer questions from parents.  [CoderDojo](http://www.coderdojo.com) is an international movement of coding clubs for kids; each one is different. CoderDojo Twin Cities was launched on April 13, 2013 and is one of the largest CoderDojos in the world. CoderDojoTC has also helped inspire 5 other CoderDojos in Minnesota: Katie CoderDojo, Tonka CoderDojo, SW CoderDojo, Northfield CoderDojo and So MN CoderDojo. 
+
 # Arrival
 
 Event volunteers arrive at the University of Minnesota at 12:30 p.m. to help set up for check in which begins on event day at 1 p.m. Mentors and children of mentors can enter the room for set up, but students should be asked to wait until 1:20 p.m. to enter the room. They can wait outside and you can let them know when it’s time.
